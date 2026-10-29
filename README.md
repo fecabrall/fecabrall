@@ -50,7 +50,7 @@ Minha atuação combina rigor arquitetural com aplicações práticas de ponta:
 
 ---
 
-## 🔬 Outros Projetos Relevantes em Saúde & IA
+## 🔬 Outros Projetos Relevantes em IA
 
 - **[DermAI](https://github.com/fecabrall/dermAI)**: Aplicação de triagem de lesões dermatológicas utilizando Deep Learning com Transfer Learning (CNN) treinado sobre o dataset Dermatology MNIST (MedMNIST).
 - **[Financeiro Apple API](https://github.com/fecabrall/financeiro-apple-api)**: Microsserviço em FastAPI com filtro heurístico local de spam em dois níveis, parsing semântico via Gemini Flash com validação de esquema Pydantic e persistência no Google Cloud Firestore.
